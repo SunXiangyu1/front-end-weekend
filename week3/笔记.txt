@@ -1,0 +1,28 @@
+块元素   替换元素  比较  对于div
+
+
+
+display:inline-block
+background-position
+position
+top   这四个是一组
+
+
+
+
+对于position
+relative 父元素  absolute 子元素
+
+
+margin  上右下左  顺时针。
+
+
+
+
+
+
+
+
+
+
+
